@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BMECat for Pimics">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3979890730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BMECat File</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX BMECat File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979890730 - Field 4031874262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX BMECat File - Field Import No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979890730 - Field 2937872379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Section</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX BMECat File - Field Section - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979890730 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX BMECat File - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979890730 - Field 269761521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>State</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX BMECat File - Field State - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979890730 - Field 2166181827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX BMECat File - Field Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979890730 - Field 804481195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX BMECat File - Field File Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979890730 - Field 857129632 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Xml Path</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX BMECat File - Field Xml Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979890730 - Field 3058008933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mode</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX BMECat File - Field Mode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3979890730 - Field 2841780209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>State Note</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX BMECat File - Field State Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 557992121 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX BMECat Setup - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 557992121 - Field 237762718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX BMECat Setup - Field Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 557992121 - Field 498587403 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mime Root Url</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX BMECat Setup - Field MimeRootUrl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1822550606 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete attached Vendor Catalog data for %1?</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Partn. Event Subs. - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1247485896 - NamedType 1637791985" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PRODUCT_STATUS Type %1 is not supported.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Import v2005 - NamedType ProdStatus_Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1247485896 - NamedType 44781188" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Base Unit of Measure is blank.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Import v2005 - NamedType BaseUoM_Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1247485896 - NamedType 536261694" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import successfully completed.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Import v2005 - NamedType ImportComplete_Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1247485896 - NamedType 4075315656" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Importing BMECat #1######## of #2########</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Import v2005 - NamedType ImportStatus_Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1247485896 - NamedType 397073328" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PRODUCT</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Import v2005 - NamedType xProduct_Txt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1247485896 - NamedType 298750038" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Length is reduced</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Import v2005 - NamedType LogSourceLength_Txt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1247485896 - NamedType 1584385162" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"%1" should have only %2 chars</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Import v2005 - NamedType LogMsgLength_Txt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1953666196 - NamedType 3786926463" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select BMECat XML file</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Import Wizard Mgt - NamedType Dialog_Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1953666196 - NamedType 3391690369" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML files (*.xml)|*.xml|ZIP files (*.zip)|*.zip</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Import Wizard Mgt - NamedType DialogFilter_Txt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1953666196 - NamedType 593945409" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected file is empty or unreadable.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Import Wizard Mgt - NamedType WrongFile_Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1953666196 - NamedType 2485552615" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Load BMECat File...</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Import Wizard Mgt - NamedType LblUploadStatus</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1953666196 - NamedType 3545112923" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepare BMECat data #1##### of #2#####</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Import Wizard Mgt - NamedType LblInsertStatus</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1953666196 - NamedType 632462021" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload a file with just one xml file</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Import Wizard Mgt - NamedType ZipXmls_Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1953666196 - NamedType 2172208067" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is not xml file in %1</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX BMECat Import Wizard Mgt - NamedType ZipNoXml_Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4050122872 - NamedType 3545112923" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepare BMECat data Step #1######## of #2######## Item #3######## of #4########</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Index File - NamedType LblInsertStatus</note>
+        </trans-unit>
+        <trans-unit id="Page 2731034963 - Control 1577478680 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BMECat Export / Import</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX BMECat Export TestPage - Control BMECat - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2731034963 - Control 2573004363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Publication</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX BMECat Export TestPage - Control codePublication - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2731034963 - Action 1783130788 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run BMECat Export</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX BMECat Export TestPage - Action bmecatexport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3077532522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BMECat file content</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX BMEcat file - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3077532522 - Action 33815918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Data</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX BMEcat file - Action ShowData_act - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3077532522 - Action 801695092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Retry line</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX BMEcat file - Action SetReady_act - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2721858085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import from BMECat file</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Import From BMECat - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2721858085 - Control 1966572419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add file</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Import From BMECat - Control FirstPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2721858085 - Control 804481195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Import From BMECat - Control File Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2721858085 - Control 3276474741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Second Page</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Import From BMECat - Control SecondPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2721858085 - Control 2883416955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reference Type</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Import From BMECat - Control WizardReferenceType_Fld - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2721858085 - Control 3544880708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Third Page</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Import From BMECat - Control ThirdPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2721858085 - Control 1216426568 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Additional Settings</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Import From BMECat - Control AdditionalSettings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2721858085 - Control 368964769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Final Page</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Import From BMECat - Control FinalPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2721858085 - Control 1702692295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process File</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Import From BMECat - Control ProcessFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2721858085 - Action 2438272767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Import From BMECat - Action ActionBack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2721858085 - Action 914282563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Import From BMECat - Action ActionNext - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2721858085 - Action 3259912055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Import From BMECat - Action ActionFinish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2311630658 - Action 3075913503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1713731461">
+          <source>Import from BMECat</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PIMX Role Centre BMECat Ext - Action PIMXBMECatImport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2311630658 - Action 3075913503 - Property 2001309823" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1713731461">
+          <source>View the Vendor Item List.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PIMX Role Centre BMECat Ext - Action PIMXBMECatImport - Property Tooltip</note>
+        </trans-unit>
+        <trans-unit id="Enum 143552285 - EnumValue 1365275863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PIMX BMECat Reference Type - EnumValue Empty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 143552285 - EnumValue 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PIMX BMECat Reference Type - EnumValue Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 143552285 - EnumValue 186081026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Partner</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PIMX BMECat Reference Type - EnumValue Partner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 143552285 - EnumValue 3768827574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Partner</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PIMX BMECat Reference Type - EnumValue New Partner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 3717348811 - EnumValue 1577478680 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 1487747419">
+          <source>BMECat</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension PIMX PIMX Import Type BMECat - EnumValue BMECat - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 339020513 - EnumValue 1577478680 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 2209777092">
+          <source>BMECat</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension PIMX Publication Channel Type BMECat - EnumValue BMECat - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
