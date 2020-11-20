@@ -9563,6 +9563,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table PIMX User Descr. Class Pref. - Field Description Number - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 4008738699 - NamedType 2932909231" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unknown Type %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Type Value</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX User Descr. Class Pref. - NamedType UnknownTypeErr</note>
+        </trans-unit>
         <trans-unit id="Table 2189274039 - Field 3017471043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Table No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -10702,21 +10707,6 @@
           <source>!!!RefMedia</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Document Setup - Control RefMedia - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 331027376 - NamedType 3862010654" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Please enter the page url of your SharePoint</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Document Setup - NamedType MissingPageURL_Msg</note>
-        </trans-unit>
-        <trans-unit id="Page 331027376 - NamedType 3506143810" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Please enter the client id to access your SharePoint</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Document Setup - NamedType MissingClientID_Msg</note>
-        </trans-unit>
-        <trans-unit id="Page 331027376 - NamedType 2113609759" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Please enter the client secret to access your SharePoint</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Document Setup - NamedType MissingClientSecret_Msg</note>
         </trans-unit>
         <trans-unit id="Table 532432373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Document Type</source>
@@ -20968,6 +20958,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table PIMX Checklist Relation - Field Data Resolution Code - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 2795477634 - NamedType 688120254" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type has to be set</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIMX Checklist Relation - NamedType TypeIsEmptyErr</note>
+        </trans-unit>
         <trans-unit id="Enum 2795477634 - EnumValue 1365275863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source></source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -22583,6 +22578,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Checklist Management - Method ValidateDataResolutionTypeAndCode - NamedType TypeEmpty_Err</note>
         </trans-unit>
+        <trans-unit id="Codeunit 1758093426 - NamedType 2059291476" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to process files. The issue is with %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Document Id.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Publication Helper - NamedType ProcessingFileErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 2061156909 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
           <source>Delete bad references,Skip bad references,Error on bad references</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -22618,6 +22618,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Publication Management - NamedType AL44008</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2061156909 - NamedType 3856543602" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Redundant function AusschrArtZeilenAufbereiten in cu 4006500 called</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Publication Management - NamedType RedundantProcedure1Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2061156909 - NamedType 1809558815" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Redundant function AusschrBelegZeilenAufbereiten in cu 4006500 called</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Publication Management - NamedType RedundantProcedure2Err</note>
+        </trans-unit>
         <trans-unit id="Codeunit 942392741 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total number of versions is less than then 'No. of Versions to keep' supplied</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -22632,6 +22642,16 @@
           <source>There is an issue with repository %1. The repository didn't process the request.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Document File Management - NamedType Processed_Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1873397722 - NamedType 1043086025" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to export document %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Document Id</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Document File Management - NamedType CannotExportDocumentErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1873397722 - NamedType 2341000782" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to delete document %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Document Id</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Document File Management - NamedType CannotDeleteDocumentErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 2201126396 - NamedType 705393461" size-unit="char" translate="yes" xml:space="preserve">
           <source>There is no document class for document '%1'</source>
@@ -22648,6 +22668,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Document Management - NamedType LSameDoc</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2845047849 - NamedType 3059355340" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EtikettenDefFileCreation function called</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Dokumentverwaltung Ver. - NamedType ProcedureErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 186361923 - NamedType 3786926463" size-unit="char" translate="yes" xml:space="preserve">
           <source>Creating: #1####\ Processed (Percent): #2####</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -22657,6 +22682,21 @@
           <source>Importing: #1####Lines: #2####</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX ETIM Import - Method OnRun - NamedType Dlg_Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2890099256 - NamedType 3587854070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to delete all Catalog Feature?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX ETIM Import - NamedType DeleteAllCatalogFeaturesQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2890099256 - NamedType 1830513736" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deleting Features in Classes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX ETIM Import - NamedType DeletingFeaturesInClassesTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2890099256 - NamedType 1938161019" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creating Features in Classes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX ETIM Import - NamedType CreatingFeaturesInClassesTxt</note>
         </trans-unit>
         <trans-unit id="Page 2890099256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Import ETIM classification</source>
@@ -22707,6 +22747,16 @@
           <source>Please enter the page url of your SharePoint</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Graph Access - NamedType MissingPageURL_Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694172616 - NamedType 1255386740" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not find a token with key %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Token Key</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Graph Access - NamedType InvalidTokenKeyErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1694172616 - NamedType 1638023230" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not find a token with path %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Token Path</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Graph Access - NamedType InvalidTokenPathErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 2551579321 - NamedType 3157880074" size-unit="char" translate="yes" xml:space="preserve">
           <source>The license has been expired. Do you want to download a new license file for Pimics?</source>
@@ -22772,6 +22822,16 @@
           <source>Type: %1\Valid Until: %2\Users: %3</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX License - NamedType Info_Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2551579321 - NamedType 156757782" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is only %1 users allowed by license. Do you want generate new license?</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Max User Count</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX License - NamedType GenerateNewLicenseQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2551579321 - NamedType 2859385479" size-unit="char" translate="yes" xml:space="preserve">
+          <source>It is not possible to create a new user</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX License - NamedType CannotCreateNewUserErr</note>
         </trans-unit>
         <trans-unit id="Page 2551579321 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>License</source>
@@ -22878,10 +22938,35 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX ShP Respository Mgt. - NamedType Text001</note>
         </trans-unit>
-        <trans-unit id="Codeunit 4054898394 - Method 2019106400 - NamedType 2523260930" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 4054898394 - NamedType 2052104778" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error while sending request to SharePoint.%1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Error Message from SharePoint</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX ShP Respository Mgt. - NamedType SharePointRequestFailedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4054898394 - NamedType 1255386740" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not find a token with key %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Token Key</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX ShP Respository Mgt. - NamedType InvalidTokenKeyErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4054898394 - NamedType 1638023230" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not find a token with path %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Token Path</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX ShP Respository Mgt. - NamedType InvalidTokenPathErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4054898394 - NamedType 2523260930" size-unit="char" translate="yes" xml:space="preserve">
           <source>Can't create thumbnail</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX ShP Respository Mgt. - Method ImportFromBase64 - NamedType Msg_CantCreateThumbnail</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX ShP Respository Mgt. - NamedType Msg_CantCreateThumbnail</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4054898394 - NamedType 3281777932" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to update the existing file "%1"?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX ShP Respository Mgt. - NamedType ConfirmUpdateExistingFileQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4054898394 - NamedType 3731689618" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to update the existing file "%1" in SharePoint?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX ShP Respository Mgt. - NamedType ConfirmUpdateExistingFileInSharePointQst</note>
         </trans-unit>
         <trans-unit id="Codeunit 4054898394 - Method 2934031083 - NamedType 3067578707" size-unit="char" translate="yes" xml:space="preserve">
           <source>Upload Document #1 of #2</source>
@@ -22912,6 +22997,16 @@
           <source>No Reference field is defined for table %1.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Tabellenverwaltung - NamedType AL0007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2412616823 - NamedType 1459319137" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Only one xml file is allowed in the zip file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Xml - NamedType ZipXmlErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2412616823 - NamedType 3262792394" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No xml file found in the zip file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Xml - NamedType ZipNoXmlErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1541666993 - NamedType 1358891941" size-unit="char" translate="yes" xml:space="preserve">
           <source>There is not a file with extension %1 in the file in %2</source>
@@ -23013,6 +23108,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Publication Dialog - NamedType Dialog_Lbl</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3286915132 - NamedType 237627580" size-unit="char" translate="yes" xml:space="preserve">
+          <source>It is possible to change Update/Reorganize only for new instance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Publication Data - NamedType ChangeOnlyForNewInstErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3286915132 - NamedType 3399790485" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line %1 doesn't exists</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Line Guid</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Publication Data - NamedType LineDoesnotExistsErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1762050552 - NamedType 1490237955" size-unit="char" translate="yes" xml:space="preserve">
           <source>Do you want to reorganize the publication data?</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -23072,6 +23177,36 @@
           <source>Counting Records...</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Publication Version Mngt. - NamedType Text50005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2070227364 - NamedType 3862010654" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please enter the page url of your SharePoint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Setup UI Library - NamedType MissingPageURL_Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2070227364 - NamedType 3506143810" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please enter the client id to access your SharePoint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Setup UI Library - NamedType MissingClientID_Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2070227364 - NamedType 2113609759" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please enter the client secret to access your SharePoint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Setup UI Library - NamedType MissingClientSecret_Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2070227364 - NamedType 1255386740" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not find a token with key %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Token Key</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Setup UI Library - NamedType InvalidTokenKeyErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2070227364 - NamedType 1638023230" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not find a token with path %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Token Path</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Setup UI Library - NamedType InvalidTokenPathErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2070227364 - NamedType 2885010332" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Library</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PIMX Setup UI Library - NamedType SelLib_Lbl</note>
         </trans-unit>
         <trans-unit id="Codeunit 3956633988 - NamedType 2239929383" size-unit="char" translate="yes" xml:space="preserve">
           <source>Unable to create line for language %1 in line %2(%3)</source>
@@ -23229,7 +23364,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Control Repository Type - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2436587025 - Control 2628430469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source></source>
+          <source>SharePoint</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Control StepDAMSharePoint - Property Caption</note>
         </trans-unit>
@@ -23237,6 +23372,46 @@
           <source>More details can be found under the link https://docs.pimics.com/en-us/setup-dam-sharepoint.md</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Control StepDAMSharePoint - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 2436587025 - Control 107804004 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>!!!Page Url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Control Page Url - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2436587025 - Control 2788077256 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>!!!ClientId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Control ClientId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2436587025 - Control 4069789961 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>!!!ClientSecret</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Control ClientSecret - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2436587025 - Control 1695158084 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>!!!DefaultSite</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Control DefaultSite - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2436587025 - Control 3062055175 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>!!!RefDocuments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Control RefDocuments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2436587025 - Control 2908001538 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>!!!RefPictures</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Control RefPictures - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2436587025 - Control 1264846248 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>!!!RefGraphics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Control RefGraphics - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2436587025 - Control 2376800055 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>!!!RefMedia</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Control RefMedia - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2436587025 - Control 3570032756 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source></source>
@@ -23278,16 +23453,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Control OvertakeMediaSetFld - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 2436587025 - Control 238038202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Use Selected Repository</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Control UseSelectedRepositoryFld - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2436587025 - Control 238038202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The pictures, documents and media will be uploaded to the selected repository. If false than it will stay in Media in Database</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Control UseSelectedRepositoryFld - Property ToolTip</note>
-        </trans-unit>
         <trans-unit id="Page 2436587025 - Control 2782980000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Attributes</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -23307,6 +23472,16 @@
           <source>Finish</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - Action ActionFinish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2436587025 - NamedType 734480822" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to install Pimics?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - NamedType InstallPimicsQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2436587025 - NamedType 3074860258" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pimics has to be installed first.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Configuration Wizard - NamedType MustInstallPimicsErr</note>
         </trans-unit>
         <trans-unit id="Page 3850387328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Used in</source>
@@ -24532,6 +24707,11 @@
           <source>%1 may not be attached to %2.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Edit Allocation Tree - NamedType WrongAttached_Err</note>
+        </trans-unit>
+        <trans-unit id="Page 561467058 - Method 1139757572 - NamedType 386548003" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The %1 %2 is "Standard %1" for %4. Do you want to change it?</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Type ; %2 = Code ; %3 = Line Type ; %4 = Number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Edit Allocation Tree - Method ContentCtrlOnDrop - NamedType ConfirmChangeStandardQst</note>
         </trans-unit>
         <trans-unit id="Page 3757044440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Feature Card</source>
@@ -33623,6 +33803,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Pim2ShP TestPage - Action Pim2ShpStartSetup - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2195328848 - NamedType 1255386740" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not find a token with key %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Token Key</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Pim2ShP TestPage - NamedType InvalidTokenKeyErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2195328848 - NamedType 1638023230" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Could not find a token with path %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Token Path</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Pim2ShP TestPage - NamedType InvalidTokenPathErr</note>
+        </trans-unit>
         <trans-unit id="Page 787945940 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>User Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -36352,6 +36542,11 @@
           <source>Pimics DAM Document</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PIMX DAM Document API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2423494085 - Method 4152709421 - NamedType 2311619006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document %1 in %2 already exists</source>
+          <note from="Developer" annotates="general" priority="2">%1 = External Id ; %2 = External Container Id</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX DAM Document API - Method OnInsertOrModify - NamedType DocumentExistsErr</note>
         </trans-unit>
         <trans-unit id="Page 3379017409 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Pimics Publication Categories</source>
@@ -43403,6 +43598,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Edit Publication Tree - NamedType AddLine_Err</note>
         </trans-unit>
+        <trans-unit id="Page 1353468454 - NamedType 1742714721" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can't drop on this element.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIMX Edit Publication Tree - NamedType BadDropFocusErr</note>
+        </trans-unit>
         <trans-unit id="Page 1116558453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Publications Group Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -44262,6 +44462,11 @@
           <source>Manufacturer:</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report PIMX Publ. Item Data Sheet - ReportLabel Manufacturer_Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 65122269 - NamedType 987778408" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OnAfterGetRecord function called.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PIMX Publ. Item Data Sheet - NamedType FunctionCalledErr</note>
         </trans-unit>
         <trans-unit id="Report 3050733173 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Delete Old Publication Version</source>
